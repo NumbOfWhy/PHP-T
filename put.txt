@@ -1,0 +1,12 @@
+new class()
+{
+    public function __construct()
+    {
+        echo "Hello, World!";
+    }
+
+    public function test()
+    {
+        echo "Hello, Test!";
+    }
+};
